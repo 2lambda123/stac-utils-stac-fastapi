@@ -1,6 +1,4 @@
-"""stac_fastapi.types.search module.
-
-"""
+"""stac_fastapi.types.search module."""
 
 from typing import Dict, List, Optional, Union
 
