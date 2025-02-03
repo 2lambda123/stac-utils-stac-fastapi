@@ -6,7 +6,7 @@ with open("README.md") as f:
     desc = f.read()
 
 install_requires = [
-    "stac-fastapi.types~=3.0",
+    "stac-fastapi.types>=3,<6",
     "stac-fastapi.api~=3.0",
 ]
 
